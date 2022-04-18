@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/cityname.txt</file>
+        <file>data/schedule.txt</file>
+        <file>data/test.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+release/main.o
+release/mainwindow.o
+release/chinamap.o
+release/transschedule.o
+release/traveler.o
+release/addtravelerdialog.o
+release/lookupallroutes.o
+release/changedest.o
+release/qrc_image.o
+release/qrc_data.o
+release/moc_mainwindow.o
+release/moc_chinamap.o
+release/moc_addtravelerdialog.o
+release/moc_lookupallroutes.o
+release/moc_changedest.o

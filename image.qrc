@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/chinaMap.jpg</file>
+        <file>image/plan.jpg</file>
+        <file>image/tempplane.png</file>
+        <file>image/fighter.png</file>
+        <file>image/car.png</file>
+        <file>image/train.png</file>
+        <file>image/movie.gif</file>
+        <file>image/movie2.gif</file>
+        <file>image/movie3.gif</file>
+    </qresource>
+</RCC>

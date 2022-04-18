@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/chinamap.o
+debug/transschedule.o
+debug/traveler.o
+debug/addtravelerdialog.o
+debug/lookupallroutes.o
+debug/changedest.o
+debug/qrc_image.o
+debug/qrc_data.o
+debug/moc_mainwindow.o
+debug/moc_chinamap.o
+debug/moc_addtravelerdialog.o
+debug/moc_lookupallroutes.o
+debug/moc_changedest.o
